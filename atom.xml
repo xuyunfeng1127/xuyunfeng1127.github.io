@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-15T04:47:00.665Z</updated>
+  <updated>2017-12-15T18:21:43.869Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2017/12/15/photo/"/>
     <id>http://yoursite.com/2017/12/15/photo/</id>
     <published>2017-12-15T04:43:51.000Z</published>
-    <updated>2017-12-15T04:47:00.665Z</updated>
+    <updated>2017-12-15T18:21:43.869Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
     
@@ -34,6 +34,8 @@
     
     </summary>
     
+    
+      <category term="-photos" scheme="http://yoursite.com/tags/photos/"/>
     
   </entry>
   
