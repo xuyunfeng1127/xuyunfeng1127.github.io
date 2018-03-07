@@ -4,33 +4,26 @@
   <url>
     <loc>http://yoursite.com/photos/data.json</loc>
     
-    <lastmod>2018-03-07T13:13:49.882Z</lastmod>
+    <lastmod>2018-03-07T16:07:53.884Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/photos/index.html</loc>
     
-    <lastmod>2018-03-07T05:12:52.873Z</lastmod>
+    <lastmod>2018-03-07T15:43:16.948Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/photos/ins.json</loc>
+    <loc>http://yoursite.com/photos/video.html</loc>
     
-    <lastmod>2018-03-07T05:12:52.873Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/assets/demo/hack_demo.html</loc>
-    
-    <lastmod>2018-03-07T05:12:52.857Z</lastmod>
+    <lastmod>2018-03-07T15:35:58.432Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/jiugongge_demo.html</loc>
+    <loc>http://yoursite.com/assets/demo/jiugongge_demo2.html</loc>
     
     <lastmod>2018-03-07T05:12:52.857Z</lastmod>
     
@@ -44,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/my_news_reader/index.html</loc>
-    
-    <lastmod>2018-03-07T05:12:52.857Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/assets/demo/mediator/demo.html</loc>
     
     <lastmod>2018-03-07T05:12:52.857Z</lastmod>
@@ -58,7 +44,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/jiugongge_demo2.html</loc>
+    <loc>http://yoursite.com/assets/demo/hack_demo.html</loc>
+    
+    <lastmod>2018-03-07T05:12:52.857Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/assets/demo/my_news_reader/index.html</loc>
+    
+    <lastmod>2018-03-07T05:12:52.857Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/assets/demo/jiugongge_demo.html</loc>
     
     <lastmod>2018-03-07T05:12:52.857Z</lastmod>
     
@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/coffee_pc_demo/pro-con.html</loc>
+    <loc>http://yoursite.com/assets/demo/gift/index.html</loc>
     
     <lastmod>2018-03-07T05:12:52.842Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/gift/index.html</loc>
+    <loc>http://yoursite.com/assets/demo/coffee_pc_demo/pro-con.html</loc>
     
     <lastmod>2018-03-07T05:12:52.842Z</lastmod>
     
@@ -89,27 +89,6 @@
     <loc>http://yoursite.com/photos/index.html</loc>
     
     <lastmod>2018-03-07T04:39:28.818Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/photo/output.json</loc>
-    
-    <lastmod>2017-12-19T04:36:57.172Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/photo/index.html</loc>
-    
-    <lastmod>2017-12-18T06:59:53.592Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/photo/data.json</loc>
-    
-    <lastmod>2017-12-18T02:03:19.605Z</lastmod>
     
   </url>
   

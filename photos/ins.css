@@ -26,12 +26,13 @@
 }
 .instagram .thumb {
 	width: 25%;
-	height: 0;
+	height: 0; 
 	padding-bottom: 25%;
 	position: relative;
 	display: inline-block;
 	text-align: center;
 	background: #ededed;
+	outline: 1px solid #ddd;
 }
 .instagram .thumb a {
 	position: relative;
@@ -142,3 +143,11 @@
 		height: 90%;
 	}
 }
+/*video*/
+.video-container {
+z-index: 1;
+position: relative;
+padding-bottom: 56.25%;
+margin: 0 auto;
+}
+.video-container iframe, .video-container object, .video-container embed {z-index: 1;position: absolute;top: 0;left: 7%;width: 85%;height: 85%;box-shadow: 0px 0px 20px 2px #888888;}
