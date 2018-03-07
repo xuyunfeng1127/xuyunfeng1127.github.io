@@ -116,7 +116,7 @@
         var data = res.list[j].arr;
         var liTmpl = "";
         for (var i = 0, len = data.link.length; i < len; i++) {
-          var minSrc = 'http://raw.githubusercontent.com/xuyunfeng1127/BlogPicture/master/min_photos/' + data.link[i] + '.min.jpg';
+          var minSrc = 'https://raw.githubusercontent.com/xuyunfeng1127/BlogPicture/master/min_photos/' + data.link[i] + '.min.jpg';
           var src = 'https://raw.githubusercontent.com/xuyunfeng1127/BlogPicture/master/photos/' + data.link[i];
           var type = data.type[i];
           var target = src + (type === 'video' ? '.mp4' : '.jpg');
